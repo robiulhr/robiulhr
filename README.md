@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Split a Number into an Array in JavaScript](https://robiul.dev/how-to-split-a-number-into-an-array-in-javascript)
+- [How to Rename an Object Key in JavaScript](https://robiul.dev/how-to-rename-an-object-key-in-javascript)
+- [How to Check if a String is Empty in JavaScript](https://robiul.dev/how-to-check-if-a-string-is-empty-in-javascript)
+- [How to Round a Number to 2 Decimal Places in JavaScript](https://robiul.dev/round-to-2-decimal-places-in-javascript)
+- [Javascript hasOwnProperty:  A Powerful Property Checking tool](https://robiul.dev/javascript-hasownproperty-method)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
