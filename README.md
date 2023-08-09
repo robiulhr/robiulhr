@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Made a Custom Version of Express.js Framework: Cute Express](https://robiul.dev/i-made-a-custom-version-of-expressjs-framework-cute-express)
 - [What are Programming Paradigms? - Master all Popular Ones](https://robiul.dev/what-are-programming-paradigms-master-all-popular-ones)
 - [What is Node.js Exactly? - Real World Example](https://robiul.dev/what-is-nodejs-exactly-real-world-example)
 - [How to Split a Number into an Array in JavaScript](https://robiul.dev/how-to-split-a-number-into-an-array-in-javascript)
 - [How to Rename an Object Key in JavaScript](https://robiul.dev/how-to-rename-an-object-key-in-javascript)
-- [How to Check if a String is Empty in JavaScript](https://robiul.dev/how-to-check-if-a-string-is-empty-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
