@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cannot redeclare block-scoped variable in TypeScript [Fixed]](https://robiul.dev/cannot-redeclare-block-scoped-variable-in-typescript-fixed)
 - [Unsaved Changes Alert and Unsubmitted Data Preservation on Page Exit in React App](https://robiul.dev/unsaved-changes-alert-and-unsubmitted-data-preservation-on-page-exit-in-react-app)
 - [Transform common web development project ideas into unique ones](https://robiul.dev/transform-common-web-development-project-ideas-into-unique-ones)
 - [Deploy Vite React App on Both GitHub Pages and Vercel](https://robiul.dev/deploy-vite-react-app-on-both-github-pages-and-vercel)
 - [I Made a Custom Version of Express.js Framework: Cute Express](https://robiul.dev/i-made-a-custom-version-of-expressjs-framework-cute-express)
-- [What are Programming Paradigms? - Master all Popular Ones](https://robiul.dev/what-are-programming-paradigms-master-all-popular-ones)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
