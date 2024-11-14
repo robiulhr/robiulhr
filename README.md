@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [PM2: A Journey from Basics to Advanced Node.js Process Management](https://robiul.dev/pm2-a-journey-from-basics-to-advanced-nodejs-process-management)
 - [Next Cloudinary: A Game-Changer for Client-Side File Handling](https://robiul.dev/next-cloudinary-a-game-changer-for-client-side-file-handling)
 - [fatal: not possible to fast-forward, aborting Error solution](https://robiul.dev/fatal-not-possible-to-fast-forward-aborting-error-solution)
 - [Cannot redeclare block-scoped variable in TypeScript [Fixed]](https://robiul.dev/cannot-redeclare-block-scoped-variable-in-typescript-fixed)
 - [Unsaved Changes Alert and Unsubmitted Data Preservation on Page Exit in React App](https://robiul.dev/unsaved-changes-alert-and-unsubmitted-data-preservation-on-page-exit-in-react-app)
-- [Transform common web development project ideas into unique ones](https://robiul.dev/transform-common-web-development-project-ideas-into-unique-ones)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
